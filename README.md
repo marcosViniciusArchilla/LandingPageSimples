@@ -1,0 +1,1 @@
+#Projeto de uma landing page, que sera usada para divulgar serviços de programação, aonde havera uma breve aprensentação de allguns projetos, e um contato.#
